@@ -18,6 +18,7 @@ Instruction to my skills and projects
 2.7 Parallel & Functional Programming  
 2.7.1 Map Reduce  
 2.8 DevExpress  
+2.9 Git  
   
 3 Delta One Trading  
 3.1 Prime Brokerage  
