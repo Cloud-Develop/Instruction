@@ -18,7 +18,8 @@ Instruction to my skills and projects
 2.7 Parallel & Functional Programming  
 2.7.1 Map Reduce  
 2.8 DevExpress  
-2.9 Git  
+2.9 Git 
+2.10 DotNet  
   
 3 Delta One Trading  
 3.1 Prime Brokerage  
@@ -57,7 +58,12 @@ Instruction to my skills and projects
 8.3 PBA  
 8.4 GMSLA/GMRA  
   
-9 Ad Hoc  
+9 Pilot  
+  
+10 Language  
+10.1 Japanese
+  
+11 Ad Hoc  
   
 markdown ref  
 https://www.cnblogs.com/liugang-vip/p/6337580.html  
